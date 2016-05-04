@@ -4,5 +4,4 @@ Git is free software.
 222222
 333333
 444444
-the first change
-the second change
+you are a fool.
